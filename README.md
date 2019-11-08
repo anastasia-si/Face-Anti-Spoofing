@@ -1,2 +1,3 @@
 # Face-Anti-Spoofing
-TBD
+Deep learning network for classification real and fake face images.
+Dataset: https://www.kaggle.com/ciplab/real-and-fake-face-detection
